@@ -1,1 +1,2 @@
 new line of the vi editor
+added second line
